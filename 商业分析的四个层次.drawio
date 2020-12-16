@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T06:01:56.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Av7yfUnkTlHVhmVVNnQZ" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T06:03:46.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="GaAKJ7WfyI1yMEwJFHRe" version="14.0.3" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="57fe6abec08f04cb-4" value="处方性分析" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="180" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-7" value="商业分析的四个层次" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-7" value="商业分析的四个层次" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#FFFFFF;fillColor=#0080FF;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;发生了什么&lt;/font&gt;&lt;/span&gt;, 顾名思义，&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;该层次主要是对已经发生的事实用数据做出准确的描述。比如某企业本月订单签约额比上月增加100万，至1100万，但是订单履约率从上月的98%下降到了95%，库存周转率从上月的0.8下降到了0.7。&lt;/span&gt;&lt;/font&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
