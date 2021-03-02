@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T03:29:48.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fz8w619bYWA1shVwUGHL" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T06:45:01.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="H2qRvnOoHE4tXit1ofkV" version="14.1.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,8 +101,8 @@
         <mxCell id="OamSfIkwXFLza6yoQez--47" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4">
           <mxGeometry x="115.5" y="42" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OamSfIkwXFLza6yoQez--49" value="查询当前用户为创建人的表&#xa;查询当前用户授权过的表" style="" vertex="1" parent="4">
-          <mxGeometry x="45" y="112" width="190" height="50" as="geometry" />
+        <mxCell id="OamSfIkwXFLza6yoQez--49" value="查询当前用户为创建人的表&#xa;查询当前用户授权过的表&#xa;(excel/csv/数据库/导入以及创建数据集&#xa;时选表)" style="" vertex="1" parent="4">
+          <mxGeometry x="30" y="112" width="230" height="58" as="geometry" />
         </mxCell>
         <mxCell id="OamSfIkwXFLza6yoQez--50" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="4">
           <mxGeometry x="-350" y="-108" as="geometry">
@@ -115,7 +115,7 @@
         </mxCell>
         <mxCell id="OamSfIkwXFLza6yoQez--53" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130.5" y="162" as="sourcePoint" />
+            <mxPoint x="130.5" y="172" as="sourcePoint" />
             <mxPoint x="130.5" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
